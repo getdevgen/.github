@@ -1,4 +1,6 @@
 # Devgen:Your Github AI Assistant
+Devgen is an AI Assistant that analyzes code, issues, pull requests, and releases to provide insights about your Github repository.
+
 
 <img src="img/devgen_first_look.png" alt="devgen" />
 
