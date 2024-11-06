@@ -2,7 +2,7 @@
 Devgen is an AI Assistant that analyzes code, issues, pull requests, and releases to provide insights about your Github repository.
 
 
-<img src="img/devgen_first_look.png" alt="devgen" />
+<img src="https://devgen.xyz/img/devgen-mini.webp" alt="devgen" />
 
 * **Repository Q&A**:  Get expert insights from your codebase in seconds
 * **Draft Pull Request**:  Enhance your github development process
